@@ -1,0 +1,153 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+h6 {
+    margin-bottom: 30px;
+}
+#header img {
+    padding: 8px;
+}
+#header {
+    background-color: #212429;
+    top: 0;
+    position: sticky;
+    z-index: 10;
+}
+#mainHome {
+    padding: 80px;
+    background: rgb(108,69,195);
+    background: linear-gradient(90deg, rgba(108,69,195,1) 0%, rgba(99,84,205,1) 18%, rgba(96,88,208,1) 37%, rgba(87,101,217,1) 54%, rgba(84,106,220,1) 67%, rgba(84,125,229,1) 92%);
+}
+#home {
+    text-align: left;
+    color: white;
+    padding: 90px;
+    margin-top: 55px;
+    font-size: 20px;
+} 
+h1 {
+    font-size: 55px;
+    margin-bottom: 25px;
+}
+#home a {
+    font-size: 15px;
+    margin-left: 20px;
+    color: white
+}
+#home button {
+    height: 50px;
+}
+#carrosel {  
+    padding: 80px;
+}
+.mainHomeItem0 {
+    padding: 100px;
+    background-color: #f8f9fb;
+}
+.mainHomeItem0 p {
+    font-size: 20px;
+}
+.mainHomeItem {
+    padding: 100px;
+}
+.mainHomeItem p {
+    font-size: 20px;
+}
+#pages {
+ background-color: #f8f9fb;
+ padding: 50px;
+}
+#pages a img:hover {
+    -webkit-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+    box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+}
+#pages h2 {
+    font-size: 22px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#developer {
+    padding: 100px;
+}
+#developer img {
+  height: 500px;
+}
+.mainDeveloper{
+    margin-top: 180px;
+    padding-bottom: 50px;
+    padding-right: 100px;
+}
+#responsive img {
+    height: 500px;
+}
+#avatar {
+    padding: 100px;
+    background: rgb(108,69,195);
+    background: linear-gradient(90deg, rgba(108,69,195,1) 0%, rgba(99,84,205,1) 18%, rgba(96,88,208,1) 37%, rgba(87,101,217,1) 54%, rgba(84,106,220,1) 67%, rgba(84,125,229,1) 92%);
+}
+#avatar img {
+    height: 150px;
+    border-radius: 50%; 
+}
+#avatar p {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+#avatar h3 {
+    font-size: 20px;
+    color: white;
+
+}
+#card img {
+    height: 500px;
+   
+}
+.card:hover {
+    background-color: silver;
+    border: .1rem solid black;
+}
+.mainHomeItemMenor {
+    padding: 100px;
+}
+.mainHomeItemMenor h1 {
+    font-size: 17px;
+    font-weight: bold;
+}
+#mainStart {
+    background: rgb(108,69,195);
+    background: linear-gradient(90deg, rgba(108,69,195,1) 0%, rgba(99,84,205,1) 18%, rgba(96,88,208,1) 37%, rgba(87,101,217,1) 54%, rgba(84,106,220,1) 67%, rgba(84,125,229,1) 92%);
+    padding: 180px;
+    color: white;
+    clip-path: polygon(0 0, 100% 16%, 100% 100%, 0% 100%);
+}
+.mainStart h1 {
+    font-size: 35px;
+}
+.mainStartButton:hover {
+    background: white;
+    color: blueviolet
+}
+#footer {
+    padding: 100px;
+    color: white;
+    background-color:#353a40;
+}
+#footer p {
+    margin-top: 10px;
+}
+#footer ul li a {
+    color: white;
+}
+#teste {
+    padding: 50px;
+    margin-right: 100px;
+}
